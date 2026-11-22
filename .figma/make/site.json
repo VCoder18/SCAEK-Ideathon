@@ -1,0 +1,10 @@
+{
+  "description": "Helps cement plant engineers monitor kiln performance, predict clinker quality, and optimize energy use, productivity, and process stability with explainable recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
